@@ -1,8 +1,8 @@
 # Portfolio  – Short free to use personal portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ZertiXDevHUB/Portoflio)
-![GitHub stars](https://img.shields.io/github/stars/ZertiXDevHUB/Portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ZertiXDevHUB/Portfolio?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ZertiXDevHUB/Portoflio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ZertiXDevHUB/Portoflio?style=social)
 
 
 Portfolio is a fully responsive **personal portfolio website** built using **HTML, CSS, and JavaScript**.  
@@ -36,4 +36,5 @@ git clone https://github.com/ZertiXDevHUB/Portfolio.git
 ```bash
 git clone https://github.com/ZertiXDevHUB/Portfolio.git
 ```
+
 
