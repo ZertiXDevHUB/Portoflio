@@ -1,6 +1,6 @@
 # Portfolio  – Short free to use personal portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/ZertiXDevHUB/Portfolio)
+![GitHub repo size](https://img.shields.io/github/repo-size/ZertiXDevHUB/Portoflio)
 ![GitHub stars](https://img.shields.io/github/stars/ZertiXDevHUB/Portfolio?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ZertiXDevHUB/Portfolio?style=social)
 
@@ -36,3 +36,4 @@ git clone https://github.com/ZertiXDevHUB/Portfolio.git
 ```bash
 git clone https://github.com/ZertiXDevHUB/Portfolio.git
 ```
+
